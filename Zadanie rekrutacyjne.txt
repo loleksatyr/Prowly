@@ -1,4 +1,5 @@
 A)
+
 Title:
 Description:
 Prerequisites:
@@ -13,8 +14,30 @@ Test steps:
 1. In the search enginge input the "prowly" word.
 2. Click search.
 3. Notice the keywords against categories.
-
 (Sidenote)
 When you will do it on the Microsoft Edge on the 1366 px screen you can notice the keywords will be covered by the rest of the design.
-That is Edge error.
+That is Edge defect.
+
+Title: Displaying a sponsored link on Google Chrome
+Description: In the google search engine you can pay to displaying link before all searches.
+Prerequisites: Enter the google.com on the website window (Google Chrome recommended).
+Test steps:
+1. In the search enginge input the "prowly" word.
+2. Click search.
+3. Notice the sponsored link on the top of the searches.
+
+Title: Displaying the important informations on the right side of the the search.
+Description: On the search enginges when search word is the company name, the most important information about that company should be displayed on the right side of the screen.
+Prerequisites: Enter the google.com on the website window (Google Chrome recommended)
+Test steps:
+1. In the search enginge input the "prowly" word.
+2. Click search.
+3. Notice the area on the right of the window.
+4. Verify the information.
+
+B)
+Title:
+Description:
+Prerequisites:
+Test steps:
 
