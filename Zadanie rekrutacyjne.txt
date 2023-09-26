@@ -1,0 +1,20 @@
+A)
+Title:
+Description:
+Prerequisites:
+Test steps:
+
+Title: Keywords next to categories.
+Description: In google search engine when you are searching for the specific words, the keywords which is connected to that
+word you are searched for will appear near the categories. In the case of this case the words should be connected to the name 
+of the company - for example job boards and news about it.
+Prerequisites: Enter the google.com on the website window (Google Chrome recommended).
+Test steps:
+1. In the search enginge input the "prowly" word.
+2. Click search.
+3. Notice the keywords against categories.
+
+(Sidenote)
+When you will do it on the Microsoft Edge on the 1366 px screen you can notice the keywords will be covered by the rest of the design.
+That is Edge error.
+
