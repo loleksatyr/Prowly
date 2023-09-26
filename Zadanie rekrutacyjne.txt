@@ -1,9 +1,9 @@
-A)
-
 Title:
 Description:
 Prerequisites:
 Test steps:
+
+A)
 
 Title: Keywords next to categories.
 Description: In google search engine when you are searching for the specific words, the keywords which is connected to that
@@ -36,8 +36,39 @@ Test steps:
 4. Verify the information.
 
 B)
-Title:
-Description:
-Prerequisites:
+
+Title: Searching news about company.
+Description: In the search enginges you can check the newest information about the company.
+Prerequisites: Enter the google.com on the website window (Google Chrome recommended)
 Test steps:
+1. In the search enginge input the "prowly" word.
+2. Click search.
+3. Click on Tools.
+4. Change time on the last 24 hours.
+5. Change category to News.
+6. Verify the content of the searches.
+
+Title: Search archives about company.
+Description: In search engines you can check the websites which is not avaiable now (for example old press notes)
+Prerequisites: Enter the google.com on the website window (Google Chrome recommended)
+Test steps:
+1. In the search enginge input the "prowly" word.
+2. Click search.
+3. Click on Tools.
+4. Change time on the Archive.
+5. Change category to News.
+6. Verify old articles about company.
+
+Title: Search the information about one day.
+Description: In search engine you can check information published on one specific day.
+Prerequisites: Enter the google.com on the website window (Google Chrome recommended)
+Test steps:
+1. In the search enginge input the "prowly" word.
+2. Click search.
+3. Click on Tools.
+4. Change time Data range.
+5. Enter the specific date twice.
+6. Verify the searches to specific day.
+
+
 
